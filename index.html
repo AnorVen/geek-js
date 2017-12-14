@@ -17,12 +17,14 @@
 		.table{
 			display: flex;
 			flex-wrap: wrap;
-			width: 450px;
+			width: 500px;
 			justify-content: center;
 		}
-		.table > div{
+		.table div{
 			width: 50px;
 			height: 50px;
+			box-sizing: border-box;
+			border: 1px solid black;
 		}
 		.letter{
 			background-color: yellow;
@@ -31,10 +33,13 @@
 	</style>
 </head>
 <body>
+<div class="wrapper">
 
 	<div class="table">
 
 	</div>
+</div>
+
 
 <script src="index5.js"></script>
 </body>

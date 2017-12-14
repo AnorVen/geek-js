@@ -1,0 +1,81 @@
+<html>
+<head>
+	<title>Test</title>
+	<script>
+    function bigPicture(event) {
+      if (event.target.classList.contains('gallery_item')) {
+        mainView.innerHTML = '';
+        var bigPicture = event.target.cloneNode(true);
+        bigPicture.classList.remove('gallery_item');
+        bigPicture.src = bigPicture.src.replace('small', 'orig');
+//вставлена сюда
+        bigPicture.onerror = function () {
+          bigPicture.src = bigPicture.src.replace('orig', 'small');
+        };
+        mainView.appendChild(bigPicture);
+
+      }
+      event.stopPropagation();
+    }
+
+    function init() {
+      var pictures = ['1.jpg', '2.jpeg', '3.jpg'];
+      var gallery = document.getElementById('gallery');
+      var mainView = document.getElementById('mainView');
+
+      for (var i = 0; i < pictures.length; i++) {
+        var img = document.createElement('img');
+        img.src = 'img/small/' + pictures[i];
+//вставлена сюда
+        img.onerror = function () {
+          this.remove();
+
+        }
+        img.classList.add('gallery_item');
+
+        gallery.appendChild(img);
+      }
+
+      gallery.addEventListener('click', bigPicture);
+
+      document.body.addEventListener('click', function () {
+        console.log('body');
+      })
+
+      document.getElementById('link').addEventListener(click, function (event) {
+        console.log('Hello');
+        event.preventDefault();
+      })
+    }
+
+    window.onload = init;
+	</script>
+	<style>
+		.gallery_item {
+			width: 150px;
+			margin: 10px;
+			cursor: pointer;
+		}
+
+		.mainView {
+			width: 500px;
+			height: 500px;
+			background-color: beige;
+			margin: 0 auto;
+		}
+
+		.mainView img {
+			width: 500px;
+		}
+
+		.gallery {
+			text-align: center;
+		}
+	</style>
+</head>
+<body>
+<a id="link" href="https://geekbrains.ru">Ссылка</a>
+<div class="mainView" id="mainView"></div>
+<div class="gallery" id="gallery"></div>
+</body>
+</html>

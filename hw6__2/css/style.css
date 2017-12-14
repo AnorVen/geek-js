@@ -1,0 +1,3659 @@
+/* line 41 : D:\Anor\geek\styl\style.styl */
+
+/* line 1 : D:\Anor\geek\node_modules\stylus\lib\functions\index.styl */
+
+/* line 297 : D:\Anor\geek\node_modules\stylus\lib\functions\index.styl */
+
+/* line 1 : D:\Anor\geek\node_modules\nib\index.styl */
+
+/* line 1 : D:\Anor\geek\node_modules\nib\index.styl */
+
+/* line 15 : D:\Anor\geek\node_modules\nib\lib\nib\index.styl */
+
+/* line 15 : D:\Anor\geek\node_modules\nib\lib\nib\index.styl */
+
+/* line 1 : D:\Anor\geek\node_modules\nib\lib\nib\border.styl */
+
+/* line 10 : D:\Anor\geek\node_modules\nib\lib\nib\border.styl */
+
+/* line 1 : D:\Anor\geek\node_modules\nib\lib\nib\border-radius.styl */
+
+/* line 53 : D:\Anor\geek\node_modules\nib\lib\nib\border-radius.styl */
+
+/* line 1 : D:\Anor\geek\node_modules\nib\lib\nib\clearfix.styl */
+
+/* line 28 : D:\Anor\geek\node_modules\nib\lib\nib\clearfix.styl */
+
+/* line 487 : D:\Anor\geek\node_modules\nib\lib\nib\color-image.styl */
+
+/* line 4 : D:\Anor\geek\node_modules\nib\lib\nib\color-image.styl */
+
+/* line 1 : D:\Anor\geek\node_modules\nib\lib\nib\flex.styl */
+
+/* line 196 : D:\Anor\geek\node_modules\nib\lib\nib\flex.styl */
+
+/* line 90 : D:\Anor\geek\node_modules\nib\lib\nib\gradients.styl */
+
+/* line 90 : D:\Anor\geek\node_modules\nib\lib\nib\gradients.styl */
+
+/* line 1 : D:\Anor\geek\node_modules\nib\lib\nib\config.styl */
+
+/* line 11 : D:\Anor\geek\node_modules\nib\lib\nib\config.styl */
+
+/* line 487 : D:\Anor\geek\node_modules\nib\lib\nib\iconic.styl */
+
+/* line 7 : D:\Anor\geek\node_modules\nib\lib\nib\iconic.styl */
+
+/* line 1 : D:\Anor\geek\node_modules\nib\lib\nib\image.styl */
+
+/* line 25 : D:\Anor\geek\node_modules\nib\lib\nib\image.styl */
+
+/* line 19 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\index.styl */
+
+/* line 19 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\index.styl */
+
+/* line 487 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\base.styl */
+
+/* line 8 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\base.styl */
+
+/* line 487 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\html5.styl */
+
+/* line 19 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\html5.styl */
+
+/* line 487 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\links.styl */
+
+/* line 6 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\links.styl */
+
+/* line 487 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\text.styl */
+
+/* line 30 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\text.styl */
+
+/* line 487 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\embed.styl */
+
+/* line 7 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\embed.styl */
+
+/* line 487 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\groups.styl */
+
+/* line 17 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\groups.styl */
+
+/* line 487 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\forms.styl */
+
+/* line 69 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\forms.styl */
+
+/* line 487 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\tables.styl */
+
+/* line 7 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\tables.styl */
+
+/* line 1 : D:\Anor\geek\node_modules\nib\lib\nib\overflow.styl */
+
+/* line 20 : D:\Anor\geek\node_modules\nib\lib\nib\overflow.styl */
+
+/* line 487 : D:\Anor\geek\node_modules\nib\lib\nib\positions.styl */
+
+/* line 66 : D:\Anor\geek\node_modules\nib\lib\nib\positions.styl */
+
+/* line 487 : D:\Anor\geek\node_modules\nib\lib\nib\reset.styl */
+
+/* line 78 : D:\Anor\geek\node_modules\nib\lib\nib\reset.styl */
+
+/* line 5 : D:\Anor\geek\node_modules\nib\lib\nib\text\index.styl */
+
+/* line 5 : D:\Anor\geek\node_modules\nib\lib\nib\text\index.styl */
+
+/* line 1 : D:\Anor\geek\node_modules\nib\lib\nib\text\aliases.styl */
+
+/* line 12 : D:\Anor\geek\node_modules\nib\lib\nib\text\aliases.styl */
+
+/* line 1 : D:\Anor\geek\node_modules\nib\lib\nib\text\ellipsis.styl */
+
+/* line 9 : D:\Anor\geek\node_modules\nib\lib\nib\text\ellipsis.styl */
+
+/* line 1 : D:\Anor\geek\node_modules\nib\lib\nib\text\hide-text.styl */
+
+/* line 8 : D:\Anor\geek\node_modules\nib\lib\nib\text\hide-text.styl */
+
+/* line 1 : D:\Anor\geek\node_modules\nib\lib\nib\text\replace-text.styl */
+
+/* line 9 : D:\Anor\geek\node_modules\nib\lib\nib\text\replace-text.styl */
+
+/* line 487 : D:\Anor\geek\node_modules\nib\lib\nib\text\shadow-stroke.styl */
+
+/* line 2 : D:\Anor\geek\node_modules\nib\lib\nib\text\shadow-stroke.styl */
+
+/* line 487 : D:\Anor\geek\node_modules\nib\lib\nib\vendor.styl */
+
+/* line 11 : D:\Anor\geek\node_modules\nib\lib\nib\vendor.styl */
+
+/* line 1 : D:\Anor\geek\node_modules\nib\lib\nib\config.styl */
+
+/* line 523 : D:\Anor\geek\node_modules\nib\lib\nib\config.styl */
+
+/* line 1 : D:\Anor\geek\node_modules\nib\lib\nib\size.styl */
+
+/* line 19 : D:\Anor\geek\node_modules\nib\lib\nib\size.styl */
+
+/* line 28 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\index.styl */
+
+/* line 8 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\index.styl */
+
+/* line 487 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\base.styl */
+
+/* line 19 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\base.styl */
+
+/* line 487 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\html5.styl */
+
+/* line 6 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\html5.styl */
+
+/* line 487 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\links.styl */
+
+/* line 30 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\links.styl */
+
+/* line 487 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\text.styl */
+
+/* line 7 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\text.styl */
+
+/* line 487 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\embed.styl */
+
+/* line 17 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\embed.styl */
+
+/* line 487 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\groups.styl */
+
+/* line 69 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\groups.styl */
+
+/* line 487 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\forms.styl */
+
+/* line 7 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\forms.styl */
+
+/* line 487 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\tables.styl */
+
+/* line 90 : D:\Anor\geek\node_modules\nib\lib\nib\normalize\tables.styl */
+
+/* line 28 : D:\Anor\geek\node_modules\nib\lib\nib\gradients.styl */
+
+/* line 11 : D:\Anor\geek\node_modules\nib\lib\nib\gradients.styl */
+
+/* line 1 : D:\Anor\geek\node_modules\nib\lib\nib\config.styl */
+
+/* line 28 : D:\Anor\geek\node_modules\nib\lib\nib\config.styl */
+
+/* line 1 : D:\Anor\geek\styl\smart-grid.styl */
+
+/* line 1043 : D:\Anor\geek\styl\smart-grid.styl */
+
+/* line 1 : D:\Anor\geek\styl\mixin.styl */
+
+/* line 11 : D:\Anor\geek\styl\mixin.styl */
+
+/* line 11 : D:\Anor\geek\styl\global.styl */
+
+/* line 1 : D:\Anor\geek\styl\global.styl */
+
+/* line 12 : D:\Anor\geek\styl\smart-grid.styl */
+
+body body,
+body div,
+body dl,
+body dt,
+body dd,
+body ul,
+body li,
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6,
+body pre,
+body code,
+body form,
+body fieldset,
+body input,
+body textarea,
+body p,
+body blockquote,
+body th,
+body td
+{
+    margin: 0;
+    padding: 0;
+}
+
+/* line 16 : D:\Anor\geek\styl\smart-grid.styl */
+
+body table
+{
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+/* line 20 : D:\Anor\geek\styl\smart-grid.styl */
+
+body fieldset,
+body img,
+body abbr
+{
+    border: 0;
+}
+
+/* line 23 : D:\Anor\geek\styl\smart-grid.styl */
+
+body address,
+body caption,
+body cite,
+body code,
+body dfn,
+body em,
+body strong,
+body th,
+body var
+{
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* line 27 : D:\Anor\geek\styl\smart-grid.styl */
+
+body ul li
+{
+    list-style: none;
+}
+
+/* line 30 : D:\Anor\geek\styl\smart-grid.styl */
+
+body caption,
+body th
+{
+    text-align: left;
+}
+
+/* line 33 : D:\Anor\geek\styl\smart-grid.styl */
+
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body h6
+{
+    font-size: 100%;
+    font-weight: normal;
+}
+
+/* line 37 : D:\Anor\geek\styl\smart-grid.styl */
+
+body sup
+{
+    vertical-align: text-top;
+}
+
+/* line 40 : D:\Anor\geek\styl\smart-grid.styl */
+
+body sub
+{
+    vertical-align: text-bottom;
+}
+
+/* line 43 : D:\Anor\geek\styl\smart-grid.styl */
+
+body input,
+body textarea,
+body select
+{
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+}
+
+/* line 48 : D:\Anor\geek\styl\smart-grid.styl */
+
+body legend
+{
+    color: #000;
+}
+
+/* line 51 : D:\Anor\geek\styl\smart-grid.styl */
+
+body article,
+body aside,
+body details,
+body figcaption,
+body figure,
+body footer,
+body header,
+body hgroup,
+body menu,
+body nav,
+body section,
+body main
+{
+    display: block;
+}
+
+/* line 54 : D:\Anor\geek\styl\smart-grid.styl */
+
+body img
+{
+    max-width: 100%;
+    height: auto;
+}
+
+/* line 5 : D:\Anor\geek\styl\global.styl */
+
+body
+{
+    font-family: 'Lato', 'Helvetica', 'Arial', sans-serif;
+    line-height: normal;
+
+    width: 100%;
+    margin: 0;
+
+    color: #222;
+}
+
+/* line 13 : D:\Anor\geek\styl\global.styl */
+
+a
+{
+    text-decoration: none;
+
+    color: #222;
+}
+
+/* line 18 : D:\Anor\geek\styl\global.styl */
+
+.visually-hidden
+{
+    position: absolute;
+
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+
+    border: 0;
+}
+
+/* line 1 : D:\Anor\geek\styl\global.styl */
+
+/**
+ * default development theme for jQRangeSlider
+ * Using fam fam icon set from Mark James, http://www.famfamfam.com/lab/icons/silk/ (Creative Commons Attribution 2.5 License)
+ */
+
+.ui-rangeSlider
+{
+    height: 22px;
+}
+
+.ui-rangeSlider .ui-rangeSlider-innerBar
+{
+    height: 6px;
+
+    border-radius: 3px;
+    background-color: #f0f0f0;
+}
+
+.ui-rangeSlider .ui-rangeSlider-handle
+{
+    top: -3px !important;
+
+    width: 14px;
+    height: 14px;
+
+    cursor: col-resize;
+
+    border-radius: 50%;
+    background: #f16d7f;
+}
+
+.ui-rangeSlider .ui-rangeSlider-bar
+{
+    width: 124px;
+    height: 6px;
+    margin: 1px 0;
+
+    cursor: move;
+    cursor: -webkit-grab;
+    cursor:         grab;
+    cursor:    -moz-grab;
+
+    background-color: #f16d7f;
+}
+
+.ui-rangeSlider .ui-rangeSlider-bar.ui-draggable-dragging
+{
+    cursor: -webkit-grabbing;
+    cursor:         grabbing;
+}
+
+.ui-rangeSlider-arrow
+{
+    width: 16px;
+    height: 16px;
+    margin: 2px 0;
+
+    background-repeat: no-repeat;
+}
+
+.ui-rangeSlider-arrow.ui-rangeSlider-leftArrow
+{
+    background-image: url('icons-classic/resultset_previous.png');
+    background-position: center left;
+}
+
+.ui-rangeSlider-arrow.ui-rangeSlider-rightArrow
+{
+    background-image: url('icons-classic/resultset_next.png');
+    background-position: center right;
+}
+
+.ui-rangeSlider-arrow-inner
+{
+    display: none;
+}
+
+.ui-rangeSlider-container
+{
+    height: 22px;
+}
+
+.ui-rangeSlider-withArrows .ui-rangeSlider-container
+{
+    margin: 0 11px;
+}
+
+.ui-rangeSlider-noArrow .ui-rangeSlider-container
+{
+    margin: 0;
+}
+
+.ui-rangeSlider-label
+{
+    bottom: 20px;
+
+    display: none !important;
+
+    margin: 0 2px 2px;
+    padding: 3px 6px 7px;
+
+    cursor: col-resize;
+    white-space: nowrap;
+
+    background-image: url('icons-classic/label.png');
+    background-repeat: no-repeat;
+    background-position: bottom center;
+}
+
+.ui-rangeSlider-label-inner
+{
+    display: none;
+}
+
+/*
+ * Edit slider
+ */
+
+input.ui-editRangeSlider-inputValue
+{
+    width: 3em;
+
+    text-align: center;
+    vertical-align: middle;
+}
+
+/* line 27 : D:\Anor\geek\styl\__js\classic.css */
+
+/* line 27 : D:\Anor\geek\styl\__block\header.styl */
+
+/* line 1 : D:\Anor\geek\styl\__block\header.styl */
+
+.header
+{
+    position: relative;
+
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    background-color: #fff;
+
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+
+/* line 10 : D:\Anor\geek\styl\__block\header.styl */
+
+.header__top-wrap
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    width: 100%;
+    height: 100px;
+
+    border-top: solid 1px #ececec;
+    border-bottom: solid 1px #ececec;
+
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+/* line 21 : D:\Anor\geek\styl\__block\header.styl */
+
+.header__logo
+{
+    width: 170px;
+    height: 51px;
+}
+
+/* line 24 : D:\Anor\geek\styl\__block\header.styl */
+
+.header__logo a
+{
+    display: block;
+}
+
+/* line 27 : D:\Anor\geek\styl\__block\header.styl */
+
+.header__logo img
+{
+    width: 170px;
+    height: 51px;
+}
+
+/* line 33 : D:\Anor\geek\styl\__block\header.styl */
+
+.header__search
+{
+    position: relative;
+
+    width: 403px;
+    height: 40px;
+    padding-left: 37px;
+}
+
+/* line 40 : D:\Anor\geek\styl\__block\header.styl */
+
+.fa.fa-sort-desc
+{
+    font-family: FontAwesome;
+    font-size: 14px;
+    line-height: 2.29;
+
+    width: 9px;
+    height: 6px;
+
+    text-align: right;
+    letter-spacing: .4px;
+
+    color: #838383;
+}
+
+/* line 51 : D:\Anor\geek\styl\__block\header.styl */
+
+.search__input
+{
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 2.29;
+
+    box-sizing: border-box;
+    width: 316px;
+    height: 38px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 16px;
+
+    vertical-align: top;
+    letter-spacing: .4px;
+
+    color: #a4a4a4;
+    border: solid 1px #e6e6e6;
+    background-color: #fff;
+}
+
+/* line 70 : D:\Anor\geek\styl\__block\header.styl */
+
+.search__btn
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+
+    width: 37px;
+    height: 37px;
+}
+
+/* line 78 : D:\Anor\geek\styl\__block\header.styl */
+
+.fa.fa-search
+{
+    font-family: FontAwesome;
+    font-size: 14px;
+    line-height: 2.29;
+
+    width: 14px;
+    height: 14px;
+
+    text-align: right;
+    letter-spacing: .4px;
+
+    color: #a4a4a4;
+}
+
+/* line 89 : D:\Anor\geek\styl\__block\header.styl */
+
+.account
+{
+    padding-left: 349px;
+}
+
+/* line 92 : D:\Anor\geek\styl\__block\header.styl */
+
+.account .cls-1
+{
+    width: 32px;
+    height: 29px;
+
+    fill: #222;
+}
+
+/* line 97 : D:\Anor\geek\styl\__block\header.styl */
+
+.account__btn
+{
+    width: 130px;
+    height: 38px;
+
+    background-color: #f16d7f;
+}
+
+/* line 105 : D:\Anor\geek\styl\__block\header.styl */
+
+/* line 107 : D:\Anor\geek\styl\__block\header.styl */
+
+.search__list
+{
+    width: 87px;
+    height: 38px;
+    margin-right: -4px;
+
+    vertical-align: top;
+
+    border: solid 1px #e6e6e6;
+    background-image: linear-gradient(to bottom, #f9f9f9, #f5f5f5);
+}
+
+/* line 115 : D:\Anor\geek\styl\__block\header.styl */
+
+.search__item
+{
+    width: 262px;
+}
+
+/* line 125 : D:\Anor\geek\styl\__block\header.styl */
+
+.header__account
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    width: 130px;
+    height: 38px;
+    margin-left: 26px;
+
+    background-color: #f16d7f;
+
+    -ms-flex-pack: left;
+    justify-content: left;
+    -ms-flex-align: baseline;
+    align-items: baseline;
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+}
+
+/* line 135 : D:\Anor\geek\styl\__block\header.styl */
+
+.header__account a
+{
+    font-family: Lato;
+    font-size: 15px;
+
+    display: block;
+
+    width: 82px;
+    height: 14px;
+    padding-top: 13px;
+    padding-bottom: 11px;
+    padding-left: 19px;
+
+    text-align: right;
+    letter-spacing: .4px;
+
+    color: #fff;
+}
+
+/* line 149 : D:\Anor\geek\styl\__block\header.styl */
+
+.header__account .fa
+{
+    margin-left: 8px;
+
+    color: #fff;
+}
+
+/* line 156 : D:\Anor\geek\styl\__block\header.styl */
+
+.header__nav
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    width: 1600px;
+    height: 51px;
+
+    background-color: #fff;
+
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+
+/* line 165 : D:\Anor\geek\styl\__block\header.styl */
+
+/* line 166 : D:\Anor\geek\styl\__block\header.styl */
+
+.nav__list
+{
+    position: relative;
+
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    width: 680px;
+    margin: 0 auto;
+
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+
+/* line 174 : D:\Anor\geek\styl\__block\header.styl */
+
+.nav__item
+{
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: bold;
+
+    margin: 0 3px;
+    padding: 0 16px;
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #222;
+}
+
+/* line 184 : D:\Anor\geek\styl\__block\header.styl */
+
+.nav__item a
+{
+    display: block;
+
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+/* line 190 : D:\Anor\geek\styl\__block\header.styl */
+
+/* line 190 : D:\Anor\geek\styl\__block\card.styl */
+
+/* line 1 : D:\Anor\geek\styl\__block\card.styl */
+
+.header__card
+{
+    position: relative;
+
+    margin-left: 350px;
+}
+
+/* line 6 : D:\Anor\geek\styl\__block\card.styl */
+
+/* line 7 : D:\Anor\geek\styl\__block\card.styl */
+
+.card__img
+{
+    position: relative;
+
+    width: 32px;
+    height: 29px;
+
+    background-image: url('../img/card.svg');
+    background-size: 32px 29px;
+}
+
+/* line 13 : D:\Anor\geek\styl\__block\card.styl */
+
+.card__img--text
+{
+    font-size: 12px;
+
+    position: absolute;
+    top: -6px;
+    right: -10px;
+
+    width: 19px;
+    height: 16px;
+    padding-top: 3px;
+
+    text-align: center;
+    vertical-align: bottom;
+
+    border-radius: 50%;
+    background-color: #f16d7f;
+}
+
+/* line 27 : D:\Anor\geek\styl\__block\card.styl */
+
+.card__menu
+{
+    position: absolute;
+    top: 30px;
+    left: 0;
+    width: 260px;
+    border: 1px solid #efefef;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+/* line 37 : D:\Anor\geek\styl\__block\card.styl */
+
+/* line 39 : D:\Anor\geek\styl\__block\card.styl */
+
+.card__menu .purchase__list
+{
+    padding-top: 23px;
+    padding-right: 17px;
+    padding-left: 17px;
+}
+
+/* line 45 : D:\Anor\geek\styl\__block\card.styl */
+
+.card__menu .purchase__item
+{
+    display: -ms-flexbox;
+    display: flex;
+
+    padding-top: 17px;
+    padding-bottom: 17px;
+
+    border-bottom: 1px solid #fcfcfc;
+
+    -ms-flex-pack: left;
+    justify-content: left;
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+}
+
+/* line 55 : D:\Anor\geek\styl\__block\card.styl */
+
+.card__menu .purchase__img
+{
+    width: 72px;
+    height: 85px;
+
+    background-color: #959595;
+}
+
+/* line 59 : D:\Anor\geek\styl\__block\card.styl */
+
+.card__menu .purchase__img--box1
+{
+    background-image: url('../img/card__item1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* line 64 : D:\Anor\geek\styl\__block\card.styl */
+
+.card__menu .purchase__img--box2
+{
+    background-image: url('../img/card__item2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* line 71 : D:\Anor\geek\styl\__block\card.styl */
+
+.card__menu .purchase__info
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+        flex-direction: column;
+
+    width: 105px;
+    margin-left: 10px;
+
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+    -ms-flex-direction: column;
+}
+
+/* line 79 : D:\Anor\geek\styl\__block\card.styl */
+
+.card__menu .purchase__reiting
+{
+    color: #e4b04b;
+}
+
+/* line 82 : D:\Anor\geek\styl\__block\card.styl */
+
+.card__menu .purchase__delite
+{
+    margin-top: 30px;
+    margin-left: 5px;
+
+    cursor: pointer;
+
+    color: #cacaca;
+}
+
+/* line 90 : D:\Anor\geek\styl\__block\card.styl */
+
+.card__menu .total-price
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    margin-top: 20px;
+    margin-bottom: 30px;
+
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+
+/* line 96 : D:\Anor\geek\styl\__block\card.styl */
+
+.card__menu .total-price__text
+{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* line 100 : D:\Anor\geek\styl\__block\card.styl */
+
+.card__menu .total-price__price
+{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* line 109 : D:\Anor\geek\styl\__block\card.styl */
+
+.card__menu:before
+{
+    position: absolute;
+    top: -5px;
+    left: 34px;
+
+    display: block;
+
+    width: 7px;
+    height: 7px;
+
+    content: ' ';
+    transform: rotate(45deg);
+
+    border-top: 1px solid #efefef;
+    border-left: 1px solid #efefef;
+    background-color: #fff;
+}
+
+/* line 123 : D:\Anor\geek\styl\__block\card.styl */
+
+.card__checkout a
+{
+    font-size: 14px;
+    font-weight: bold;
+
+    display: block;
+
+    box-sizing: border-box;
+    margin-bottom: 11px;
+    padding: 17px;
+
+    text-align: center;
+
+    color: #f16d7f;
+    border: 1px solid #f16d7f;
+}
+
+/* line 134 : D:\Anor\geek\styl\__block\card.styl */
+
+.card__go-to-card a
+{
+    font-size: 14px;
+    font-weight: bold;
+
+    display: block;
+
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    padding: 17px;
+
+    text-align: center;
+
+    color: #4a4a4a;
+    border: 1px solid #fbfbfb;
+}
+
+/* line 148 : D:\Anor\geek\styl\__block\card.styl */
+
+.header__card:hover .card__menu
+{
+    z-index: 2;
+
+    display: block;
+}
+
+/* line 151 : D:\Anor\geek\styl\__block\card.styl */
+
+/* line 151 : D:\Anor\geek\styl\__block\search.styl */
+
+/* line 1 : D:\Anor\geek\styl\__block\search.styl */
+
+.search
+{
+    position: relative;
+}
+
+/* line 3 : D:\Anor\geek\styl\__block\search.styl */
+
+.search__list:focus
+{
+    outline: none;
+}
+
+/* line 6 : D:\Anor\geek\styl\__block\search.styl */
+
+.search__item:focus
+{
+    outline: none;
+}
+
+/* line 9 : D:\Anor\geek\styl\__block\search.styl */
+
+.search__item
+{
+    font-size: 14px;
+
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 10px;
+}
+
+/* line 14 : D:\Anor\geek\styl\__block\search.styl */
+
+.search__item--title
+{
+    display: none;
+}
+
+/* line 17 : D:\Anor\geek\styl\__block\search.styl */
+
+.search__item--category
+{
+    font-size: 14px;
+    font-weight: 900;
+
+    padding: 0 0 9px 0;
+
+    text-transform: uppercase;
+
+    border-bottom: 1px solid #e8e8e8;
+}
+
+/* line 28 : D:\Anor\geek\styl\__block\search.styl */
+
+.search .search-select
+{
+    position: absolute;
+    z-index: 2;
+    top: 40px;
+    left: 0;
+
+    display: none;
+
+    box-sizing: border-box;
+    width: 260px;
+    padding: 10px;
+    padding-top: 0;
+
+    border: 1px solid #e8e8e8;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+/* line 42 : D:\Anor\geek\styl\__block\search.styl */
+
+.search .search-select__item
+{
+    font-size: 14px;
+
+    display: block;
+
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 10px;
+
+    cursor: pointer;
+}
+
+/* line 50 : D:\Anor\geek\styl\__block\search.styl */
+
+.search .search-select__item--category
+{
+    font-size: 14px;
+    font-weight: 900;
+
+    margin-top: 7px;
+    padding: 0 0 9px 0;
+    padding-top: 9px;
+
+    cursor: auto;
+    text-transform: uppercase;
+
+    border-bottom: 1px solid #e8e8e8;
+}
+
+/* line 63 : D:\Anor\geek\styl\__block\search.styl */
+
+.search .search-select__item:hover
+{
+    background-color: #a5a5a5;
+}
+
+/* line 68 : D:\Anor\geek\styl\__block\search.styl */
+
+.search .search-select__item--category:hover
+{
+    background-color: #fff;
+}
+
+/* line 73 : D:\Anor\geek\styl\__block\search.styl */
+
+.search .search-select:before
+{
+    position: absolute;
+    top: -5px;
+    left: 34px;
+
+    display: block;
+
+    width: 7px;
+    height: 7px;
+
+    content: ' ';
+    transform: rotate(45deg);
+
+    border-top: 1px solid #efefef;
+    border-left: 1px solid #efefef;
+    background-color: #fff;
+}
+
+/* line 88 : D:\Anor\geek\styl\__block\search.styl */
+
+.search:hover .search-select
+{
+    display: block;
+}
+
+/* line 90 : D:\Anor\geek\styl\__block\search.styl */
+
+/* line 90 : D:\Anor\geek\styl\__block\sub-nav.styl */
+
+/* line 1 : D:\Anor\geek\styl\__block\sub-nav.styl */
+
+.sub-nav
+{
+    position: absolute;
+    z-index: 2;
+    top: 40px;
+    left: 65px;
+
+    display: none;
+        flex-direction: row;
+
+    box-sizing: border-box;
+    width: 845px;
+    height: 310px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+
+    border: 1px solid #e8e8e8;
+    border-radius: 5px;
+    background-color: #fff;
+
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -ms-flex-direction: row;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+}
+
+/* line 21 : D:\Anor\geek\styl\__block\sub-nav.styl */
+
+.sub-nav__list
+{
+    box-sizing: border-box;
+    width: 235px;
+    padding-top: 10px;
+}
+
+/* line 30 : D:\Anor\geek\styl\__block\sub-nav.styl */
+
+/* line 31 : D:\Anor\geek\styl\__block\sub-nav.styl */
+
+.sub-nav__item a
+{
+    font-size: 12px;
+
+    display: block;
+
+    padding-top: 7px;
+    padding-bottom: 7px;
+
+    text-align: left;
+}
+
+/* line 39 : D:\Anor\geek\styl\__block\sub-nav.styl */
+
+.sub-nav__item--category
+{
+    font-size: 14px;
+    font-weight: 900;
+
+    text-transform: uppercase;
+
+    border-bottom: 1px solid #e8e8e8;
+}
+
+/* line 44 : D:\Anor\geek\styl\__block\sub-nav.styl */
+
+.sub-nav__item--category a
+{
+    font-size: 14px;
+}
+
+/* line 50 : D:\Anor\geek\styl\__block\sub-nav.styl */
+
+.sub-nav__super-sale
+{
+    box-sizing: border-box;
+    width: 255px;
+    height: 115px;
+    margin-top: 16px;
+    margin-left: -20px;
+    padding-right: 10px;
+
+    background-image: url('../img/header__nav_superSale.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* line 61 : D:\Anor\geek\styl\__block\sub-nav.styl */
+
+.sub-nav__super-sale a
+{
+    font-size: 22px;
+
+    padding-top: 55px;
+    padding-left: 175px;
+
+    text-align: left;
+
+    color: #fff;
+}
+
+/* line 75 : D:\Anor\geek\styl\__block\sub-nav.styl */
+
+.sub-nav:before
+{
+    position: absolute;
+    top: -5px;
+    left: 135px;
+
+    display: block;
+
+    width: 7px;
+    height: 7px;
+
+    content: ' ';
+    transform: rotate(45deg);
+
+    border-top: 1px solid #efefef;
+    border-left: 1px solid #efefef;
+    background-color: #fff;
+}
+
+/* line 90 : D:\Anor\geek\styl\__block\sub-nav.styl */
+
+.nav__item:hover .sub-nav
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+}
+
+/* line 92 : D:\Anor\geek\styl\__block\sub-nav.styl */
+
+/* line 92 : D:\Anor\geek\styl\__block\slider.styl */
+
+/* line 1 : D:\Anor\geek\styl\__block\slider.styl */
+
+/* line 3 : D:\Anor\geek\styl\__block\slider.styl */
+
+.slider__img
+{
+    height: 612px;
+
+    background-color: #e8e8e8;
+}
+
+/* line 8 : D:\Anor\geek\styl\__block\slider.styl */
+
+.slider__wrap
+{
+    max-width: 1140px;
+    height: 100%;
+    margin: 0 auto;
+
+    background-image: url('../img/banner.jpg');
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: 611px 910px;
+}
+
+/* line 17 : D:\Anor\geek\styl\__block\slider.styl */
+
+.slider__text:before
+{
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+
+    display: block;
+
+    width: 12px;
+    height: 92px;
+
+    content: '';
+
+    background-color: #f16d7f;
+}
+
+/* line 28 : D:\Anor\geek\styl\__block\slider.styl */
+
+.slider__text
+{
+    position: relative;
+
+    padding-top: 205px;
+    padding-left: 24px;
+
+    letter-spacing: 1.5px;
+}
+
+/* line 33 : D:\Anor\geek\styl\__block\slider.styl */
+
+.slider__text--big
+{
+    font-size: 60px;
+}
+
+/* line 36 : D:\Anor\geek\styl\__block\slider.styl */
+
+.slider__text--small
+{
+    font-size: 40px;
+}
+
+/* line 40 : D:\Anor\geek\styl\__block\slider.styl */
+
+.slider__text--pink
+{
+    color: #f16d7f;
+}
+
+/* line 44 : D:\Anor\geek\styl\__block\slider.styl */
+
+/* line 44 : D:\Anor\geek\styl\__block\main-category.styl */
+
+/* line 1 : D:\Anor\geek\styl\__block\main-category.styl */
+
+.main-category
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+        flex-direction: column;
+
+    width: 1140px;
+    height: 820px;
+    margin: 0 auto;
+    margin-top: 100px;
+
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -ms-flex-direction: column;
+}
+
+/* line 11 : D:\Anor\geek\styl\__block\main-category.styl */
+
+.main-category__item
+{
+    position: relative;
+
+    width: 560px;
+    margin-right: 18px;
+
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: 100%;
+}
+
+/* line 19 : D:\Anor\geek\styl\__block\main-category.styl */
+
+.main-category__man
+{
+    height: 542px;
+
+    background-image: url('../img/product__man.jpg');
+}
+
+/* line 24 : D:\Anor\geek\styl\__block\main-category.styl */
+
+.main-category__box
+{
+    height: 261px;
+
+    background-image: url('../img/product__box.jpg');
+}
+
+/* line 29 : D:\Anor\geek\styl\__block\main-category.styl */
+
+.main-category__woman
+{
+    height: 261px;
+
+    background-image: url('../img/product__woman.jpg');
+}
+
+/* line 34 : D:\Anor\geek\styl\__block\main-category.styl */
+
+.main-category__kid
+{
+    height: 542px;
+
+    background-image: url('../img/product__kid.jpg');
+}
+
+/* line 39 : D:\Anor\geek\styl\__block\main-category.styl */
+
+.main-category__text
+{
+    position: absolute;
+    top: 26px;
+    left: 0;
+
+    height: 50px;
+    padding: 16px 20px;
+
+    text-transform: uppercase;
+
+    background-color: #fff;
+}
+
+/* line 47 : D:\Anor\geek\styl\__block\main-category.styl */
+
+.main-category__text--small
+{
+    font-size: 18px;
+}
+
+/* line 50 : D:\Anor\geek\styl\__block\main-category.styl */
+
+.main-category__text--big
+{
+    font-size: 30px;
+
+    color: #f16d7f;
+}
+
+/* line 55 : D:\Anor\geek\styl\__block\main-category.styl */
+
+/* line 55 : D:\Anor\geek\styl\__block\Fetured.styl */
+
+/* line 1 : D:\Anor\geek\styl\__block\Fetured.styl */
+
+.FeturedItems
+{
+    margin-top: 82px;
+}
+
+/* line 3 : D:\Anor\geek\styl\__block\Fetured.styl */
+
+.FeturedItems__title
+{
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 1.8;
+
+    text-align: center;
+    letter-spacing: .8px;
+}
+
+/* line 10 : D:\Anor\geek\styl\__block\Fetured.styl */
+
+.FeturedItems__text
+{
+    font-family: Lato;
+    font-size: 14px;
+
+    text-align: center;
+    letter-spacing: .4px;
+
+    color: #9f9f9f;
+}
+
+/* line 17 : D:\Anor\geek\styl\__block\Fetured.styl */
+
+.FeturedItems__link
+{
+    font-size: 16px;
+    font-weight: bold;
+
+    display: block;
+
+    box-sizing: border-box;
+    width: 212px;
+    height: 47px;
+    margin: 0 auto;
+    margin-top: 14px;
+    padding-top: 15px;
+    padding-bottom: 19px;
+    padding-left: 24px;
+
+    letter-spacing: .4px;
+
+    color: #fff;
+    background-color: #f16d7f;
+}
+
+/* line 33 : D:\Anor\geek\styl\__block\Fetured.styl */
+
+.FeturedItems__link i
+{
+    padding-right: 15px;
+    padding-left: 9px;
+}
+
+/* line 41 : D:\Anor\geek\styl\__block\Fetured.styl */
+
+.FeturedItems .product
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    width: 1140px;
+    margin: 0 auto;
+    margin-top: 60px;
+
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+
+/* line 49 : D:\Anor\geek\styl\__block\Fetured.styl */
+
+.FeturedItems .product__item
+{
+    position: relative;
+
+    width: 261px;
+    height: 364px;
+    margin-bottom: 40px;
+}
+
+/* line 55 : D:\Anor\geek\styl\__block\Fetured.styl */
+
+.FeturedItems .product__text
+{
+    font-size: 13px;
+
+    margin-top: 15px;
+    padding-left: 15px;
+
+    text-align: left;
+    text-transform: uppercase;
+}
+
+/* line 63 : D:\Anor\geek\styl\__block\Fetured.styl */
+
+.FeturedItems .product__price
+{
+    font-size: 16px;
+    font-weight: bold;
+
+    margin-top: 10px;
+    padding-left: 15px;
+
+    text-align: left;
+
+    color: #f16d7f;
+}
+
+/* line 71 : D:\Anor\geek\styl\__block\Fetured.styl */
+
+.FeturedItems .product__shadow
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    display: none;
+
+    width: 261px;
+    height: 279px;
+
+    background-color: rgba(0,0,0,.5);
+}
+
+/* line 80 : D:\Anor\geek\styl\__block\Fetured.styl */
+
+.FeturedItems .product__btn
+{
+    display: block;
+
+    width: 123px;
+    height: 39px;
+    margin: 0 auto;
+    margin-top: 110px;
+
+    cursor: pointer;
+
+    color: #fff;
+    border: solid 1px #fff;
+    background-color: rgba(0,0,0,0);
+}
+
+/* line 92 : D:\Anor\geek\styl\__block\Fetured.styl */
+
+.FeturedItems .product__item:hover
+{
+    box-shadow: 0 5px 8px 0 rgba(0,0,0,.16);
+}
+
+/* line 96 : D:\Anor\geek\styl\__block\Fetured.styl */
+
+.FeturedItems .product__item:hover .product__shadow
+{
+    display: block;
+}
+
+/* line 103 : D:\Anor\geek\styl\__block\Fetured.styl */
+
+/* line 103 : D:\Anor\geek\styl\__block\sales.styl */
+
+/* line 1 : D:\Anor\geek\styl\__block\sales.styl */
+
+.sales
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    width: 1140px;
+    margin: 0 auto;
+    margin-top: 113px;
+
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+
+/* line 9 : D:\Anor\geek\styl\__block\sales.styl */
+
+.sales__img
+{
+    position: relative;
+
+    width: 767px;
+    height: 529px;
+
+    background-image: url('../img/sales.jpg');
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: cover;
+}
+
+/* line 20 : D:\Anor\geek\styl\__block\sales.styl */
+
+.sales__img-text
+{
+    position: absolute;
+    top: 146px;
+    left: 40px;
+
+    width: 293px;
+    height: 78px;
+
+    color: #fff;
+}
+
+/* line 27 : D:\Anor\geek\styl\__block\sales.styl */
+
+.sales__img-text--big
+{
+    font-size: 53.6px;
+    font-weight: bold;
+
+    letter-spacing: 1.3px;
+}
+
+/* line 32 : D:\Anor\geek\styl\__block\sales.styl */
+
+.sales__img-text--pink
+{
+    color: #f16d7f;
+}
+
+/* line 35 : D:\Anor\geek\styl\__block\sales.styl */
+
+.sales__img-text--small
+{
+    font-size: 32.2px;
+    font-weight: bold;
+}
+
+/* line 43 : D:\Anor\geek\styl\__block\sales.styl */
+
+/* line 44 : D:\Anor\geek\styl\__block\sales.styl */
+
+.benefit__title
+{
+    font-size: 21px;
+    font-weight: 900;
+}
+
+/* line 48 : D:\Anor\geek\styl\__block\sales.styl */
+
+.benefit__text
+{
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 2;
+
+    margin-top: 10px;
+}
+
+/* line 58 : D:\Anor\geek\styl\__block\sales.styl */
+
+.benefit__list
+{
+    width: 375px;
+    height: 519px;
+    padding-top: 10px;
+
+    background-color: #222224;
+}
+
+/* line 65 : D:\Anor\geek\styl\__block\sales.styl */
+
+.benefit__item
+{
+    position: relative;
+
+    width: 225px;
+    margin-top: 40px;
+    margin-left: 110px;
+
+    color: #fff;
+}
+
+/* line 72 : D:\Anor\geek\styl\__block\sales.styl */
+
+.benefit__img
+{
+    position: absolute;
+    top: 0;
+    left: -75px;
+
+    background-repeat: no-repeat;
+}
+
+/* line 77 : D:\Anor\geek\styl\__block\sales.styl */
+
+.benefit__img--delivery
+{
+    width: 50px;
+    height: 40px;
+
+    background-image: url('../img/Forma_2.svg');
+}
+
+/* line 82 : D:\Anor\geek\styl\__block\sales.styl */
+
+.benefit__img--sales
+{
+    width: 40px;
+    height: 40px;
+
+    background-image: url('../img/Forma_3.svg');
+}
+
+/* line 88 : D:\Anor\geek\styl\__block\sales.styl */
+
+.benefit__img--quality
+{
+    width: 50px;
+    height: 40px;
+
+    background-image: url('../img/Forma_1.svg');
+}
+
+/* line 94 : D:\Anor\geek\styl\__block\sales.styl */
+
+/* line 94 : D:\Anor\geek\styl\__block\newArrivals.styl */
+
+/* line 1 : D:\Anor\geek\styl\__block\newArrivals.styl */
+
+.newArrivals
+{
+    height: 148px;
+
+    background-color: #f8f3f4;
+}
+
+/* line 4 : D:\Anor\geek\styl\__block\newArrivals.styl */
+
+.newArrivals__wrap
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    max-width: 1140px;
+    height: 100%;
+    margin: 0 auto;
+
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+/* line 14 : D:\Anor\geek\styl\__block\newArrivals.styl */
+
+/* line 15 : D:\Anor\geek\styl\__block\newArrivals.styl */
+
+.newArrivals__title p
+{
+    font-size: 24px;
+    font-weight: 900;
+    line-height: .83;
+
+    text-transform: uppercase;
+
+    color: #f16d7f;
+}
+
+/* line 23 : D:\Anor\geek\styl\__block\newArrivals.styl */
+
+.newArrivals__menu-item
+{
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.43;
+
+    text-transform: uppercase;
+}
+
+/* line 28 : D:\Anor\geek\styl\__block\newArrivals.styl */
+
+.newArrivals__menu-item--pink
+{
+    font-weight: bold;
+
+    color: #f16d7f;
+}
+
+/* line 34 : D:\Anor\geek\styl\__block\newArrivals.styl */
+
+/* line 34 : D:\Anor\geek\styl\__block\delivery.styl */
+
+/* line 1 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery
+{
+    margin-top: 53px;
+}
+
+/* line 3 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery__wrap
+{
+    width: 1140px;
+    margin: 0 auto;
+}
+
+/* line 7 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery__item
+{
+    border-bottom: 1px solid #e8e8e8;
+}
+
+/* line 9 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery__item input
+{
+    display: none;
+}
+
+/* line 13 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery__title
+{
+    font-size: 16px;
+    font-weight: bold;
+
+    display: block;
+
+    padding-top: 27px;
+    padding-bottom: 26px;
+
+    text-transform: uppercase;
+}
+
+/* line 23 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery__shippingAdress
+{
+    margin-top: 11px;
+    margin-bottom: 78px;
+    margin-left: 35px;
+
+    -ms-flex-pack: left;
+    justify-content: left;
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+}
+
+/* line 32 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery .checkOrReg
+{
+    width: 50%;
+}
+
+/* line 34 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery .checkOrReg__title
+{
+    font-size: 13px;
+
+    text-transform: uppercase;
+}
+
+/* line 38 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery .checkOrReg__text
+{
+    font-size: 13px;
+    line-height: 1.54;
+
+    margin-top: 7px;
+
+    color: #b3b2b2;
+}
+
+/* line 44 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery .checkOrReg__register
+{
+    margin-top: 28px;
+    margin-bottom: 30px;
+}
+
+/* line 48 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery .checkOrReg__label
+{
+    font-size: 12px;
+
+    display: block;
+
+    margin-bottom: 13px;
+
+    text-transform: uppercase;
+}
+
+/* line 53 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery .checkOrReg__label input
+{
+    margin-right: 10px;
+}
+
+/* line 57 : D:\Anor\geek\styl\__block\delivery.styl */
+
+/* line 58 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery .checkOrReg-adv__list
+{
+    margin-top: 33px;
+    margin-bottom: 37px;
+}
+
+/* line 62 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery .checkOrReg-adv__item
+{
+    font-size: 13px;
+    line-height: 1.54;
+
+    padding-top: 3px;
+
+    color: #b3b2b2;
+}
+
+/* line 67 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery .checkOrReg-adv__item i
+{
+    padding-right: 3px;
+}
+
+/* line 73 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery .checkOrReg__btn
+{
+    box-sizing: border-box;
+    width: 180px;
+    height: 50px;
+
+    transition: box-shadow 1s;
+    text-transform: uppercase;
+
+    border: solid 1px #eaeaea;
+    background-color: #fff;
+}
+
+/* line 82 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery .checkOrReg__btn:hover
+{
+    box-shadow: 0 0 4px 2px #f16d7f;
+}
+
+/* line 86 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery .checkOrReg__btn:focus
+{
+    outline: none;
+}
+
+/* line 92 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery .alreadyRegisted
+{
+    width: 50%;
+}
+
+/* line 94 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery .alreadyRegisted__title
+{
+    font-size: 13px;
+
+    padding-bottom: 8px;
+
+    text-transform: uppercase;
+}
+
+/* line 100 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery .alreadyRegisted__text
+{
+    font-size: 13px;
+    line-height: 1.54;
+
+    color: #b3b2b2;
+}
+
+/* line 105 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery .alreadyRegisted__label
+{
+    font-size: 12px;
+    line-height: 1.67;
+
+    display: block;
+
+    padding-top: 18px;
+    padding-bottom: 9px;
+}
+
+/* line 111 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery .alreadyRegisted__label input
+{
+    font-size: 20px;
+
+    box-sizing: border-box;
+    width: 390px;
+    height: 45px;
+    padding: 5px;
+    padding-left: 20px;
+
+    border: solid 1px #eaeaea;
+    background-color: #fff;
+}
+
+/* line 122 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery .alreadyRegisted__coment
+{
+    font-size: 13px;
+    line-height: 1.54;
+
+    margin-top: 20px;
+    margin-bottom: 26px;
+
+    color: #ff0d0d;
+}
+
+/* line 129 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery .alreadyRegisted__btn
+{
+    width: 180px;
+    height: 50px;
+
+    transition: box-shadow 1s;
+    text-transform: uppercase;
+
+    border: solid 1px #eaeaea;
+    background-color: #fff;
+}
+
+/* line 137 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery .alreadyRegisted__btn:hover
+{
+    box-shadow: inset 0 0 4px 3px #f16d7f;
+}
+
+/* line 141 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery .alreadyRegisted__btn:focus
+{
+    outline: none;
+}
+
+/* line 144 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery .alreadyRegisted__link
+{
+    font-size: 14px;
+    line-height: 1.43;
+
+    margin-top: 10px;
+    margin-left: 27px;
+    padding: 5px;
+}
+
+/* line 151 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery .alreadyRegisted__link:hover
+{
+    border-bottom: 1px dotted #f16d7f;
+}
+
+/* line 159 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery__item > input + label + div
+{
+    z-index: -1;
+
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    height: 0;
+    margin: 0;
+    padding: 0;
+
+    transition: all 2s;
+
+    opacity: 0;
+
+    -ms-filter: 'progid:DXImageTransform.Microsoft.Alpha(Opacity=0)';
+        filter: alpha(opacity=0);
+}
+
+/* line 170 : D:\Anor\geek\styl\__block\delivery.styl */
+
+.delivery__item > input:checked + label + div
+{
+    z-index: 0;
+
+    height: auto;
+    margin-top: 11px;
+    margin-bottom: 78px;
+    margin-left: 35px;
+    padding: auto;
+
+    opacity: 1;
+
+    -ms-filter: none;
+        filter: none;
+}
+
+/* line 180 : D:\Anor\geek\styl\__block\delivery.styl */
+
+/* line 180 : D:\Anor\geek\styl\__block\shopping__cart.styl */
+
+/* line 1 : D:\Anor\geek\styl\__block\shopping__cart.styl */
+
+/* line 2 : D:\Anor\geek\styl\__block\shopping__cart.styl */
+
+/* line 3 : D:\Anor\geek\styl\__block\shopping__cart.styl */
+
+.shopping-cart .cart__wrap
+{
+    max-width: 1170px;
+    margin: 0 auto;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+/* line 9 : D:\Anor\geek\styl\__block\shopping__cart.styl */
+
+/* line 9 : D:\Anor\geek\styl\__block\storeBenefits.styl */
+
+/* line 1 : D:\Anor\geek\styl\__block\storeBenefits.styl */
+
+.storeBenefits
+{
+    height: 340px;
+
+    background-color: #222224;
+}
+
+/* line 4 : D:\Anor\geek\styl\__block\storeBenefits.styl */
+
+.storeBenefits__wrap
+{
+    width: 1180px;
+    margin: 0 auto;
+}
+
+/* line 8 : D:\Anor\geek\styl\__block\storeBenefits.styl */
+
+.storeBenefits__list
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+}
+
+/* line 14 : D:\Anor\geek\styl\__block\storeBenefits.styl */
+
+.storeBenefits__item
+{
+    width: 360px;
+    margin-top: 90px;
+
+    text-align: center;
+}
+
+/* line 20 : D:\Anor\geek\styl\__block\storeBenefits.styl */
+
+.storeBenefits__title
+{
+    font-size: 20px;
+    font-weight: bold;
+
+    text-align: center;
+    letter-spacing: .5px;
+
+    color: #fbfbfb;
+}
+
+/* line 27 : D:\Anor\geek\styl\__block\storeBenefits.styl */
+
+.storeBenefits__title--delivery
+{
+    margin-top: 32px;
+}
+
+/* line 30 : D:\Anor\geek\styl\__block\storeBenefits.styl */
+
+.storeBenefits__title--sales
+{
+    margin-top: 23px;
+}
+
+/* line 33 : D:\Anor\geek\styl\__block\storeBenefits.styl */
+
+.storeBenefits__title--quality
+{
+    margin-top: 29px;
+}
+
+/* line 37 : D:\Anor\geek\styl\__block\storeBenefits.styl */
+
+.storeBenefits__text
+{
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.71;
+
+    margin-top: 15px;
+
+    text-align: center;
+    letter-spacing: .3px;
+
+    color: #fbfbfb;
+}
+
+/* line 49 : D:\Anor\geek\styl\__block\storeBenefits.styl */
+
+/* line 49 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+/* line 1 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction
+{
+    padding-top: 50px;
+    padding-bottom: 110px;
+}
+
+/* line 5 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction__wrap
+{
+    max-width: 1170px;
+    margin: 0 auto;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+/* line 9 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction__row
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    margin-right: -15px;
+    margin-left: -15px;
+
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+}
+
+/* line 12 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction__nav
+{
+    box-sizing: border-box;
+    width: calc(25% - 30px);
+    margin-right: 15px;
+    margin-left: 15px;
+
+    word-wrap: break-word;
+}
+
+/* line 17 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+/* line 18 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .productNav__checkbox
+{
+    display: none;
+}
+
+/* line 22 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .productNav__label
+{
+    font-size: 14px;
+    font-weight: bold;
+
+    position: relative;
+
+    display: block;
+
+    box-sizing: border-box;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 30px;
+
+    text-transform: uppercase;
+
+    color: #ef5b70;
+    border-bottom: solid 1px #ebebeb;
+}
+
+/* line 35 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .productNav__label .fa
+{
+    position: absolute;
+    right: 18px;
+
+    color: #6f6e6e;
+}
+
+/* line 42 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .productNav__label:before
+{
+    position: absolute;
+    top: 7px;
+    left: 14px;
+
+    display: block;
+
+    width: 5px;
+    height: 37px;
+
+    content: ' ';
+
+    background-color: #ef5b70;
+}
+
+/* line 53 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .productNav__list
+{
+    overflow: hidden;
+
+    height: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 16px;
+
+    transition: all 1s;
+}
+
+/* line 61 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+/* line 63 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .productNav__item a
+{
+    font-size: 14px;
+
+    display: block;
+
+    box-sizing: border-box;
+    padding-top: 8px;
+    padding-bottom: 8px;
+
+    color: #6f6e6e;
+}
+
+/* line 71 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .productNav__item a:hover
+{
+    padding-bottom: 7px;
+
+    border-bottom: 1px solid #ef5b70;
+}
+
+/* line 79 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction input:checked + label + .productNav__list
+{
+    height: auto;
+    margin-top: 5px;
+    margin-bottom: 30px;
+    margin-left: 33px;
+}
+
+/* line 86 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction input:checked + label > .fa
+{
+    transform: rotate(180deg);
+
+    color: #ef5b70;
+}
+
+/* line 91 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction__main
+{
+    box-sizing: border-box;
+    width: calc(75% - 30px);
+    margin-right: 15px;
+    margin-left: 15px;
+    padding-top: 10px;
+
+    word-wrap: break-word;
+}
+
+/* line 97 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .productSort
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    margin-bottom: 40px;
+}
+
+/* line 100 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .productSort__item
+{
+    box-sizing: border-box;
+    width: calc(33.333333333333336% - 30px);
+    margin-right: 15px;
+    margin-left: 15px;
+
+    word-wrap: break-word;
+}
+
+/* line 105 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+/* line 106 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .productSort .trend__title
+{
+    font-size: 14px;
+    font-weight: bold;
+
+    padding-top: 15px;
+
+    text-align: left;
+    text-transform: uppercase;
+
+    color: #6f6e6e;
+}
+
+/* line 114 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .productSort .trend__list
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    width: 190px;
+
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+}
+
+/* line 119 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .productSort .trend__item
+{
+    padding-right: 10px;
+    padding-left: 10px;
+
+    border-right: 1px solid #f7f7f7;
+    border-left: 1px solid #f7f7f7;
+}
+
+/* line 126 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .productSort .trend__item:nth-child(1)
+{
+    padding-left: 0;
+
+    border-left: none;
+}
+
+/* line 132 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .productSort .trend__item:nth-child(3)
+{
+    padding-right: 0;
+
+    border-right: none;
+}
+
+/* line 136 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .productSort .trend__item:nth-child(4)
+{
+    padding-left: 0;
+
+    border-left: none;
+}
+
+/* line 141 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .productSort .trend__item:nth-child(6)
+{
+    padding-right: 0;
+
+    border-right: none;
+}
+
+/* line 148 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+/* line 149 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .productSort .size__title
+{
+    font-size: 14px;
+    font-weight: bold;
+
+    text-transform: uppercase;
+
+    color: $brownish-grey;
+}
+
+/* line 155 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .productSort .size__list
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    width: 240px;
+
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+}
+
+/* line 160 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .productSort .size__item
+{
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+
+/* line 165 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+/* line 166 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .productSort .size__label input
+{
+    margin-right: 5px;
+
+    border: solid 1px #ebebeb;
+    background-color: #fff;
+}
+
+/* line 172 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .productSort .size__label input:focus
+{
+    outline: none;
+}
+
+/* line 177 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+/* line 178 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+/* line 179 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .productSort__price .slider__val
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+}
+
+/* line 184 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .productSort__price .slider__title
+{
+    font-size: 14px;
+    font-weight: bold;
+
+    padding-bottom: 20px;
+
+    text-transform: uppercase;
+}
+
+/* line 196 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction__sort
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    height: 50px;
+    margin-bottom: 50px;
+
+    background-color: #f3f3f3;
+}
+
+/* line 201 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction__sortWrap
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    box-sizing: border-box;
+    width: calc(100% - 30px);
+    margin-right: 15px;
+    margin-left: 15px;
+
+    word-wrap: break-word;
+
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+}
+
+/* line 208 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction__sort input
+{
+    font-size: 14px;
+
+    height: 30px;
+    padding: 10px;
+}
+
+/* line 213 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction__sort .sortBy
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    box-sizing: border-box;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+
+    border: solid 1px #ebebeb;
+    background-color: #fff;
+
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+}
+
+/* line 222 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction__sort .sortBy__text
+{
+    font-size: 14px;
+
+    box-sizing: border-box;
+    width: 65px;
+    padding-top: 5px;
+
+    text-align: center;
+
+    border-right: solid 1px #ebebeb;
+}
+
+/* line 231 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction__sort .sortBy select
+{
+    border: none;
+}
+
+/* line 234 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction__sort .sortBy select:focus,
+.productProduction__sort .sortBy select:hover,
+.productProduction__sort .sortBy select:active
+{
+    outline: none;
+}
+
+/* line 238 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction__sort .show
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    box-sizing: border-box;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+
+    border: solid 1px #ebebeb;
+    background-color: #fff;
+
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+}
+
+/* line 247 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction__sort .show__text
+{
+    font-size: 14px;
+
+    box-sizing: border-box;
+    width: 65px;
+    padding-top: 5px;
+
+    text-align: center;
+
+    border-right: solid 1px #ebebeb;
+}
+
+/* line 255 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction__sort .show select
+{
+    border: none;
+}
+
+/* line 258 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction__sort .show select:focus,
+.productProduction__sort .show select:hover,
+.productProduction__sort .show select:active
+{
+    outline: none;
+}
+
+/* line 264 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .result
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    margin-right: -15px;
+    margin-left: -15px;
+
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+}
+
+/* line 266 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .result__item
+{
+    position: relative;
+
+    box-sizing: border-box;
+    width: calc(33.333333333333336% - 30px);
+    margin-right: 15px;
+    margin-bottom: 60px;
+    margin-left: 15px;
+
+    word-wrap: break-word;
+}
+
+/* line 273 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .result__img
+{
+    width: 100%;
+}
+
+/* line 276 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .result__text
+{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+/* line 279 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .result__text a
+{
+    font-size: 13px;
+
+    display: block;
+
+    padding: 5px;
+
+    text-transform: uppercase;
+
+    color: #6f6e6e;
+}
+
+/* line 288 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .result__price
+{
+    font-size: 16px;
+    font-weight: bold;
+
+    margin-top: 5px;
+    margin-left: 5px;
+
+    color: #f16d7f;
+}
+
+/* line 295 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .result__shadow
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    width: 100%;
+    height: 287px;
+
+    background-color: rgba(0,0,0,.5);
+
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+
+/* line 307 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .result__shadow--wrap
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+        flex-direction: row;
+
+    margin: 110px 70px 0 70px;
+
+    -ms-flex-direction: row;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+
+/* line 314 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .result__btn
+{
+    height: 37px;
+    padding: 10px;
+
+    cursor: pointer;
+
+    color: #fff;
+    border: solid 1px #fff;
+    background-color: rgba(0,0,0,0);
+}
+
+/* line 322 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .result__btn--12
+{
+    display: inline-block;
+
+    max-width: 60px;
+}
+
+/* line 326 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .result__btn--heart
+{
+    display: inline-block;
+
+    max-width: 60px;
+}
+
+/* line 332 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .result__item:hover
+{
+    box-shadow: 0 5px 8px 0 rgba(0,0,0,.16);
+}
+
+/* line 336 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .result__item:hover .result__shadow
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+}
+
+/* line 341 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .pagination
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    margin-right: -15px;
+    margin-left: -15px;
+
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+
+/* line 344 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .pagination__list
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    box-sizing: border-box;
+    width: calc(33.333333333333336% - 30px);
+    margin-right: 15px;
+    margin-left: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+
+    word-wrap: break-word;
+
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+/* line 353 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .pagination__list .disabled
+{
+    cursor: default;
+
+    color: #aaa;
+}
+
+/* line 357 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .pagination__list .current
+{
+    color: #ef5b70;
+}
+
+/* line 362 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .pagination__item
+{
+    font-size: 16px;
+
+    color: #c4c4c4;
+}
+
+/* line 366 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+.productProduction .pagination__viewAll
+{
+    font-size: 16px;
+    font-weight: 300;
+
+    box-sizing: border-box;
+    width: auto;
+    margin-right: 15px;
+    margin-left: 15px;
+    padding: 13px 47px;
+
+    word-wrap: break-word;
+
+    color: #ef5b70;
+    border: solid 1px #ef5b70;
+    border-radius: 3px;
+    background-color: #fff;
+}
+
+/* line 380 : D:\Anor\geek\styl\__block\productProduction.styl */
+
+/* line 380 : D:\Anor\geek\styl\__block\feetback.styl */
+
+/* line 1 : D:\Anor\geek\styl\__block\feetback.styl */
+
+.feetback
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    height: 438px;
+    margin-top: 100px;
+
+    background-image: url('../img/feetback__bg.jpg');
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: cover;
+
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+
+/* line 11 : D:\Anor\geek\styl\__block\feetback.styl */
+
+.feetback__output
+{
+    position: relative;
+
+    width: 460px;
+    margin-top: 120px;
+}
+
+/* line 17 : D:\Anor\geek\styl\__block\feetback.styl */
+
+.feetback__text
+{
+    font-size: 16px;
+    font-style: italic;
+    line-height: 1.63;
+
+    width: 390px;
+
+    text-align: left;
+}
+
+/* line 26 : D:\Anor\geek\styl\__block\feetback.styl */
+
+.feetback__author
+{
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: bold;
+
+    margin-top: 7px;
+
+    text-align: left;
+    letter-spacing: .4px;
+
+    color: #f16d7f;
+}
+
+/* line 35 : D:\Anor\geek\styl\__block\feetback.styl */
+
+.feetback__city
+{
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 1.17;
+
+    letter-spacing: .3px;
+
+    color: #222224;
+}
+
+/* line 42 : D:\Anor\geek\styl\__block\feetback.styl */
+
+.feetback__img
+{
+    position: absolute;
+    top: -10px;
+    left: -110px;
+
+    width: 83px;
+    height: 83px;
+
+    border-radius: 50%;
+    background-color: #000;
+    background-image: url('../img/feetback.png');
+}
+
+/* line 54 : D:\Anor\geek\styl\__block\feetback.styl */
+
+.feetback .subscribe
+{
+    box-sizing: border-box;
+    width: 500px;
+    height: 100%;
+    padding-top: 140px;
+    padding-left: 115px;
+
+    border-left: 1px solid #e3e3e3;
+}
+
+/* line 61 : D:\Anor\geek\styl\__block\feetback.styl */
+
+.feetback .subscribe__title
+{
+    font-size: 24px;
+
+    text-align: center;
+    text-transform: uppercase;
+}
+
+/* line 68 : D:\Anor\geek\styl\__block\feetback.styl */
+
+.feetback .subscribe__text
+{
+    font-size: 14px;
+
+    margin-top: 5px;
+
+    text-align: center;
+}
+
+/* line 73 : D:\Anor\geek\styl\__block\feetback.styl */
+
+.feetback .subscribe__form
+{
+    position: relative;
+
+    margin-top: 33px;
+}
+
+/* line 77 : D:\Anor\geek\styl\__block\feetback.styl */
+
+.feetback .subscribe__input
+{
+    width: 360px;
+    height: 45px;
+    padding-left: 18px;
+
+    border-radius: 23px;
+    background-color: #e1e1e1;
+}
+
+/* line 86 : D:\Anor\geek\styl\__block\feetback.styl */
+
+.feetback .subscribe__input:active
+{
+    outline: none;
+}
+
+/* line 89 : D:\Anor\geek\styl\__block\feetback.styl */
+
+.feetback .subscribe__input:hover
+{
+    outline: none;
+}
+
+/* line 92 : D:\Anor\geek\styl\__block\feetback.styl */
+
+.feetback .subscribe__input:focus
+{
+    outline: none;
+}
+
+/* line 95 : D:\Anor\geek\styl\__block\feetback.styl */
+
+.feetback .subscribe__submit
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+
+    width: 104px;
+    height: 46px;
+
+    color: #fff;
+    border-top-right-radius: 23px;
+    border-bottom-right-radius: 23px;
+    background-color: #f16d7f;
+}
+
+/* line 107 : D:\Anor\geek\styl\__block\feetback.styl */
+
+.feetback .subscribe__submit:active
+{
+    outline: none;
+}
+
+/* line 110 : D:\Anor\geek\styl\__block\feetback.styl */
+
+.feetback .subscribe__submit:hover
+{
+    outline: none;
+}
+
+/* line 113 : D:\Anor\geek\styl\__block\feetback.styl */
+
+.feetback .subscribe__submit:focus
+{
+    outline: none;
+}
+
+/* line 118 : D:\Anor\geek\styl\__block\feetback.styl */
+
+/* line 118 : D:\Anor\geek\styl\__block\footer.styl */
+
+/* line 1 : D:\Anor\geek\styl\__block\footer.styl */
+
+.footer
+{
+    margin-top: 115px;
+}
+
+/* line 3 : D:\Anor\geek\styl\__block\footer.styl */
+
+.footer__main
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+
+/* line 9 : D:\Anor\geek\styl\__block\footer.styl */
+
+.footer__logo
+{
+    width: 165px;
+    height: 50px;
+
+    background-image: url('../img/logo.png');
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: 100%;
+}
+
+/* line 17 : D:\Anor\geek\styl\__block\footer.styl */
+
+.footer__text
+{
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.71;
+
+    width: 427px;
+    height: 180px;
+    margin-top: 30px;
+
+    letter-spacing: .4px;
+
+    color: #898989;
+}
+
+/* line 28 : D:\Anor\geek\styl\__block\footer.styl */
+
+.footer__menu
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    width: 610px;
+
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+}
+
+/* line 36 : D:\Anor\geek\styl\__block\footer.styl */
+
+/* line 37 : D:\Anor\geek\styl\__block\footer.styl */
+
+.footer .menu__title
+{
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.44;
+
+    letter-spacing: .5px;
+
+    color: #f16d7f;
+}
+
+/* line 44 : D:\Anor\geek\styl\__block\footer.styl */
+
+.footer .menu__list
+{
+    margin-top: 45px;
+}
+
+/* line 48 : D:\Anor\geek\styl\__block\footer.styl */
+
+/* line 51 : D:\Anor\geek\styl\__block\footer.styl */
+
+.footer .menu__link
+{
+    font-family: Lato;
+    font-size: 16px;
+    line-height: 2.63;
+
+    display: block;
+
+    text-decoration: none;
+    letter-spacing: .4px;
+
+    color: #898989;
+}
+
+/* line 61 : D:\Anor\geek\styl\__block\footer.styl */
+
+.footer .menu__link:visited
+{
+    color: #898989;
+}
+
+/* line 66 : D:\Anor\geek\styl\__block\footer.styl */
+
+.footer__copy
+{
+    margin-top: 60px;
+
+    background-color: #e6e6e6;
+}
+
+/* line 69 : D:\Anor\geek\styl\__block\footer.styl */
+
+.footer__copy--wrap
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    max-width: 1140px;
+    height: 79px;
+    margin: 0 auto;
+
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -ms-flex-align: center;
+    align-items: center;
+}
+
+/* line 81 : D:\Anor\geek\styl\__block\footer.styl */
+
+/* line 82 : D:\Anor\geek\styl\__block\footer.styl */
+
+.footer .copy__text
+{
+    font-size: 16px;
+
+    letter-spacing: .4px;
+
+    color: #7a7a7a;
+}
+
+/* line 87 : D:\Anor\geek\styl\__block\footer.styl */
+
+/* line 93 : D:\Anor\geek\styl\__block\footer.styl */
+
+/* line 94 : D:\Anor\geek\styl\__block\footer.styl */
+
+.footer .social__list
+{
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+
+    -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+    -ms-flex-pack: right;
+    justify-content: right;
+}
+
+/* line 101 : D:\Anor\geek\styl\__block\footer.styl */
+
+.footer .social__item
+{
+    width: 32px;
+    height: 32px;
+    margin-left: 8px;
+
+    background-color: #fff;
+}
+
+/* line 106 : D:\Anor\geek\styl\__block\footer.styl */
+
+.footer .social__item a
+{
+    display: block;
+}
+
+/* line 109 : D:\Anor\geek\styl\__block\footer.styl */
+
+.footer .social__item i
+{
+    margin: 9px;
+
+    color: #b2b2b2;
+}
+
+/* line 114 : D:\Anor\geek\styl\__block\footer.styl */
+
+.footer .social__item:hover
+{
+    background-color: #f16d7f;
+}
+
+/* line 116 : D:\Anor\geek\styl\__block\footer.styl */
+
+.footer .social__item:hover i
+{
+    color: #f7f7f8;
+}
+
+@media screen and (max-width: 1280px)
+{
+    /* line 66 : D:\Anor\geek\styl\smart-grid.styl */
+
+    .shopping-cart .cart__wrap
+    {
+        padding-right: 30px;
+        padding-left: 30px;
+    }/* line 66 : D:\Anor\geek\styl\smart-grid.styl */
+
+    .productProduction__wrap
+    {
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+}
+
+@media screen and (max-width: 960px)
+{
+    /* line 71 : D:\Anor\geek\styl\smart-grid.styl */
+
+    .shopping-cart .cart__wrap
+    {
+        padding-right: 15px;
+        padding-left: 15px;
+    }/* line 71 : D:\Anor\geek\styl\smart-grid.styl */
+
+    .productProduction__wrap
+    {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+}
+
+@media screen and (max-width: 780px)
+{
+    /* line 76 : D:\Anor\geek\styl\smart-grid.styl */
+
+    .shopping-cart .cart__wrap
+    {
+        padding-right: 15px;
+        padding-left: 15px;
+    }/* line 76 : D:\Anor\geek\styl\smart-grid.styl */
+
+    .productProduction__wrap
+    {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+}
+
+@media screen and (max-width: 560px)
+{
+    /* line 81 : D:\Anor\geek\styl\smart-grid.styl */
+
+    .shopping-cart .cart__wrap
+    {
+        padding-right: 15px;
+        padding-left: 15px;
+    }/* line 81 : D:\Anor\geek\styl\smart-grid.styl */
+
+    .productProduction__wrap
+    {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+}
+
+/*# sourceMappingURL=style.css.map */

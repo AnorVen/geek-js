@@ -8,6 +8,7 @@ var snakeCoordX;
 var snakeCoordY;
 var direction = 'top';
 var score = 0;
+var walls;
 
 
 function init() {
@@ -71,34 +72,42 @@ function startGameHandler() {
 
 	snakeTimer = setInterval(move, SNAKE_SPEED);
 	setTimeout(createFood, 3000);
+	setInterval(createWalls, 3000);
 }
-
+function createWalls(){
+	var i = 0;
+	var wallArr=[];
+	walls = setInterval(createWall, 3000);
+		while (i > 6){
+		wallArr.push(walls[i]);
+		i++;
+		console.log(wallArr, i);
+		if(i> 5){
+			wallArr.shift();
+			i--;
+		}
+	}
+}
 function createWall() {
 	var wallCreated = false;
 
 	while (!wallCreated) {
-		var foodX = Math.floor(Math.random() * FIELD_SIZE_X);
-		var foodY = Math.floor(Math.random() * FIELD_SIZE_Y);
+		var wallX = Math.floor(Math.random() * FIELD_SIZE_X);
+		var wallY = Math.floor(Math.random() * FIELD_SIZE_Y);
 
 		var table = document.getElementById('game-table');
-		var foodUnit = table.children[foodX].children[foodY];
+		var wallUnit = table.children[wallX].children[wallY];
 
-		if (!foodUnit.classList.contains('snake-unit')) {
-			foodCreated = true;
-			foodUnit.classList.add('food-unit');
+		if (!wallUnit.classList.contains('snake-unit')) {
+			wallCreated = true;
+			wallUnit.classList.add('wall-unit');
 		}
 	}
 }
-function isFoodUnit(unit) {
-	if (unit.classList.contains('food-unit')) {
-		score++;
-		unit.classList.remove('food-unit');
 
-		createFood();
-
-		return true;
-	} else {
-		return false;
+function isWallUnit(unit) {
+	if (unit.classList.contains('wall-unit')) {
+		gameOver();
 	}
 }
 
@@ -157,30 +166,27 @@ function move() {
 			break;
 	}
 
-	if (snakeCoordX => 0 && snakeCoordX <= FIELD_SIZE_X) {
+	if (snakeCoordX >= 0 && snakeCoordX <= FIELD_SIZE_X) {
 		newUnit = table.children[snakeCoordX].children[snakeCoordY];
-		console.log(snakeCoordX);
 
 	}
-	if (snakeCoordX <= 0) {
-		snakeCoordX = FIELD_SIZE_X-1;
+	if (snakeCoordX < 0) {
+		snakeCoordX = FIELD_SIZE_X - 1;
 		newUnit = table.children[snakeCoordX].children[snakeCoordY];
-		console.log(snakeCoordX);
 	}
 	if (snakeCoordX >= FIELD_SIZE_X) {
 		snakeCoordX = 0;
 		newUnit = table.children[snakeCoordX].children[snakeCoordY];
-		console.log(snakeCoordX);
+
 	}
-	if (snakeCoordY <= 0) {
-		snakeCoordY = FIELD_SIZE_Y;
+	if (snakeCoordY < 0) {
+		snakeCoordY = FIELD_SIZE_Y - 1;
 		newUnit = table.children[snakeCoordX].children[snakeCoordY];
-		console.log(snakeCoordX);
 	}
 	if (snakeCoordY >= FIELD_SIZE_Y) {
 		snakeCoordY = 0;
 		newUnit = table.children[snakeCoordX].children[snakeCoordY];
-		console.log(snakeCoordX);
+
 	}
 
 
@@ -192,10 +198,15 @@ function move() {
 			var oldUnit = snake.shift();
 			oldUnit.classList.remove('snake-unit');
 		}
-	} else {
+		if (isWallUnit(newUnit)) {
+			isWallUnit(newUnit);
+		}
+	}
+	else {
 		gameOver();
 	}
 }
+
 
 function isSnakeUnit(unit) {
 	return snake.includes(unit);
@@ -203,7 +214,9 @@ function isSnakeUnit(unit) {
 
 function gameOver() {
 	clearInterval(snakeTimer);
+	clearInterval(walls);
 	alert('Game over, looser!!!');
+
 }
 
 function isFoodUnit(unit) {

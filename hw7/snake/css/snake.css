@@ -38,3 +38,6 @@ td.game-table-cell {
 .food-unit {
   background: red;
 }
+.wall-unit {
+  background: #0000ff;
+}
